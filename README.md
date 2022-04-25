@@ -1,4 +1,4 @@
-## Hey! <img src="hhttps://github.com/Vaishakbg/Vaishakbg/blob/main/wave.gif" width="30px">, I'm <a href="https://www.linkedin.com/in/vaishakbg/" rel="nofollow">Vaishak</a>
+## Hey! <img src="https://github.com/Vaishakbg/Vaishakbg/blob/main/wave.gif" width="30px">, I'm <a href="https://www.linkedin.com/in/vaishakbg/" rel="nofollow">Vaishak</a>
 
 ### About Me 🚀
 -🌱 I’m a UI/UX developer with a masters degree in Software Engineering.
