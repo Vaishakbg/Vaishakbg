@@ -6,7 +6,6 @@
 -👨‍💻 I am passionate about Web Development and Design. I enjoy learning new things.
 
 [![Linkedin Badge](https://img.shields.io/badge/-vaishakbg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaishakbg/)](https://www.linkedin.com/in/vaishakbg/)
-[![Instagram Badge](https://img.shields.io/badge/-vaishakbg-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/vaishakkb/)](https://www.instagram.com/vaishakkb/)
 [![Gmail Badge](https://img.shields.io/badge/-vaishakbg@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vaishakbg@gmail.com)](mailto:vaishakbg@gmail.com)
 
 ## ⚡ Technologies
